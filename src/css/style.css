@@ -1,0 +1,63 @@
+.all{
+    display: flex;
+    flex-direction: row;
+
+}
+
+img{
+    width: 57px;
+    height: 54px;
+    margin-left: 90px;
+    margin-top: 45px;
+}
+
+.empresa{
+    font-size: 30px;
+    margin-top: 55px;
+    margin-left: 5px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    margin-top: 59px;
+    font-weight: 400;
+}
+
+.botao-1{
+   margin-left: 1650px;
+    
+}
+
+.botao-2{
+    margin-left: 20px;
+    background-color: #3ee914;
+    padding: 13px;
+    margin-top: -13px;
+    color: #fff;
+}
+
+.botao-3{
+    margin-left: 20px;
+}
+
+
+.botao-4{
+    margin-left: 20px;
+}
+
+.botao-5{
+    margin-left: 20px;
+}
+
+.fundo{
+    margin-left: 55px;
+    background-color: #3ee914;
+    padding: 13px;
+    margin-top: -14px;
+    color: #fff;
+    border-radius: 15%;
+}
+
