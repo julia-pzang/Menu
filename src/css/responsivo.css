@@ -1,0 +1,29 @@
+@media(max-width: 844px) {
+    .header{
+        flex-direction: column;
+    }
+
+    .nome{
+        margin-left: 15px;
+    }
+
+    img{
+        width: 44px;
+        height: 40px;
+    }
+
+    .menu{
+        flex-direction: column;
+        margin-top: 50px;
+        font-size: 40px;
+    }
+
+    .menu li {
+        padding: 20px;
+    } 
+
+    .menu li a.botao{
+        font-weight: 800;
+        font-size: 25px;
+    }
+}
